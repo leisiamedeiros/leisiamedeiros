@@ -1,16 +1,22 @@
-### Hi there 👋
+### LEÍSIA MEDEIROS
+PGDip. Software Engineering  
+Software Engineer at [Take.Blip](https://www.take.net/)  
+:link: [SFPC | LLL](https://www.credly.com/users/leisia-medeiros/badges)  
+:link: [https://www.linkedin.com/in/leisiamedeiros/](https://www.linkedin.com/in/leisiamedeiros/)  
 
-<!--
-**leisiamedeiros/leisiamedeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! My name is Leisia Medeiros. Currently, I am a Software Engineer at Take.Blip. I have a postgraduate degree in Software Engineering from the PUC Minas. In addition, I'm a professional focused on adopting good software engineering practices.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### SOFTWARE ENGINEERING
+
+#### MAIN CODE LANGUAGES and PLATAFORMS
+
+| Tecnhology | Description |
+| :---: | :----------- |
+| .NET | Since 2019 I've working with dotnet using tools such as: **dotnet core, C#, Asp.net MVC, Asp.net core, Asp.net WEB API, dotnet services** |
+| PHP | I've worked for 3 years with php using the **laravel framework** and for test using Dusk for laravel |
+| SQL | I've worked a lot with databases relational and non-relational such as **Posgtres, MySql, MongoDB, RavenDB** and for a long time with **SQL server** |
+| Docker | I've developing solutions using the mains concepts of docker for **building images, volumes, services and composing containers with Docker Compose** |
+| GIT | I've controlling code versions using commons workflows of git and their branch strategies. Also, I had worked with tools such as **gitlab, gitlab - ci/cd, github, github actions** |
+| Front | I've building front-end solution such as SPA using **Javascript and Typescript** languages and **Angular and React**. |
