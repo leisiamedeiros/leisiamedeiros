@@ -1,6 +1,6 @@
 ### LEÍSIA MEDEIROS
 PGDip. Software Engineering  
-Software Engineer at [Take.Blip](https://github.com/takenet)  
+Software Engineer  
 :link: [SFPC | LLL](https://www.credly.com/users/leisia-medeiros/badges)  
 :link: [https://www.linkedin.com/in/leisiamedeiros/](https://www.linkedin.com/in/leisiamedeiros/)  
 
