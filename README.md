@@ -2,9 +2,10 @@
 PGDip. Software Engineering  
 Software Engineer  
 :link: [SFPC | LLL](https://www.credly.com/users/leisia-medeiros/badges)  
-:link: [https://www.linkedin.com/in/leisiamedeiros/](https://www.linkedin.com/in/leisiamedeiros/)  
+:link: [Linkedin](https://www.linkedin.com/in/leisiamedeiros/)  
+:link: [Medium](https://medium.com/@leisiamedeiros)  
 
-Hi! My name is Leisia Medeiros. Currently, I am a Software Engineer at Take.Blip. I have a postgraduate degree in Software Engineering from the PUC Minas. In addition, I'm a professional focused on adopting good software engineering practices.
+Hi! My name is Leisia Medeiros. I am a Software Engineer. I have a postgraduate degree in Software Engineering from the PUC Minas. In addition, I'm a professional focused on adopting good software engineering practices.
 
 ---
 
