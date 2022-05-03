@@ -5,7 +5,7 @@ Software Engineer
 :link: [Linkedin](https://www.linkedin.com/in/leisiamedeiros/)  
 :link: [Medium](https://medium.com/@leisiamedeiros)  
 
-Hi! My name is Leisia Medeiros. I am a Software Engineer. I have a postgraduate degree in Software Engineering from the PUC Minas. In addition, I'm a professional focused on adopting good software engineering practices.
+Hi! My name is Leisia Medeiros. I am a Software Engineer. In addition, I'm a professional focused on adopting good software engineering practices.
 
 ---
 
