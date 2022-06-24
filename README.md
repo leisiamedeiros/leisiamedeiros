@@ -4,6 +4,7 @@ Software Engineer
 :link: [SFPC | LLL](https://www.credly.com/users/leisia-medeiros/badges)  
 :link: [Linkedin](https://www.linkedin.com/in/leisiamedeiros/)  
 :link: [Medium](https://medium.com/@leisiamedeiros)  
+:link: [GitLab](https://gitlab.com/leisiamedeiros)  
 
 Hi! My name is Leisia Medeiros. I am a Software Engineer. In addition, I'm a professional focused on adopting good software engineering practices.
 
