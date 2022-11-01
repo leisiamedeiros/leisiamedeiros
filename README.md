@@ -21,4 +21,4 @@ Hi! My name is Leisia Medeiros. I am a Software Engineer. In addition, I'm a pro
 | Docker | Developing solutions using the mains concepts of docker for **building images, volumes, services and composing containers with Docker Compose** |
 | GIT | Controlling code versions using commons workflows of git and their branch strategies. 
 | DevOps | Worked with tools such as **Gitlab - ci/cd, Github actions, Azure Pipelines** |
-| Front-End | Building front-end solution using **Javascript and Typescript** languages and **Angular and React** frameworks. |
+| FrontEnd | Building front-end solution using **Javascript and Typescript** languages and **Angular and React** frameworks. |
