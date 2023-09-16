@@ -1,6 +1,7 @@
 ### LEÍSIA MEDEIROS
 Software Engineer  
-:link: [SFPC | LLL](https://www.credly.com/users/leisia-medeiros/badges)  
+:link: [SFPC | LLL](https://www.credly.com/users/leisia-medeiros/badges)   
+🔗 [AWS Cloud Practitioner](https://www.credly.com/badges/5fa2c4de-7808-4ec6-b3c2-311d385662ed/public_url)  
 :link: [Linkedin](https://www.linkedin.com/in/leisiamedeiros/)  
 :link: [Medium](https://medium.com/@leisiamedeiros)  
 :link: [GitLab](https://gitlab.com/leisiamedeiros)  
